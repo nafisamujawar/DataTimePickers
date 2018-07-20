@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DataTimePickers</string>
+    <string name="choose_datetime">Choose the Date and Time</string>
+    <string name="date_button">Date</string>
+    <string name="time_button">Time</string>
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+    <string name="date">"Date: "</string>
+    <string name="time">"Time: "</string>
+</resources>
